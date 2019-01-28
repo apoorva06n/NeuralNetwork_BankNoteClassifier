@@ -1,5 +1,5 @@
 # NeuralNetwork_BankNoteClassifier
-We'll use the [Bank Authentication Data Set](https://archive.ics.uci.edu/ml/datasets/banknote+authentication) from the UCI repository.
+I am using the [Bank Authentication Data Set](https://archive.ics.uci.edu/ml/datasets/banknote+authentication) from the UCI repository.
 
 The data consists of 5 columns:
 
